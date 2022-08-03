@@ -1,0 +1,4 @@
+# ignnore this folder. has python 3.10.5 venv
+.env
+.venv/
+__pycache__/
